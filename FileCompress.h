@@ -3,7 +3,7 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 #include<stdlib.h>
 #include"HuffmanTree.h"
-#include<algorithm>
+#include<algorithm> 
 #include<string>
 #include<stdio.h>
 #define __DEBUG__
